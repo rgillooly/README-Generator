@@ -1,6 +1,6 @@
-# README Generator README
+# title
 
-## this generates professional readme's
+## desc
 
 [Installation](#Installation)
 [Usage](#Usage)
@@ -9,15 +9,15 @@
 
 ## Install Instructions 
 
-download the zipped file and unzip in a location of your choice
+install
 
 ## Usage 
 
-enter node generator into the command line while in the location of the program. Followe the pprompts to generate readme
+usage
 
 ## Credits 
 
-all parts completed by Ryan Gillooly
+me
 
 ## Badges 
 
@@ -25,13 +25,13 @@ none
 
 ## Features 
 
-It automates the creation of readme's
+makes readmes
 
 ## How to Contribute 
 
-The project is complete, no contribution necessary
+don't
 
 ## Tests 
 
-see if the completed readme has had the information transcribes properly
+see if the data has been transcribed properly
 
